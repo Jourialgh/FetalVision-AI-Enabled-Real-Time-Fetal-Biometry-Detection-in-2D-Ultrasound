@@ -35,6 +35,13 @@ Link to the dataset: [Fetal Head Circumference Dataset](https://www.kaggle.com/d
 U-Net: A convolutional neural network architecture for semantic segmentation, characterized by a contracting path followed by an expansive path.
 FCN (Fully Convolutional Network): A deep learning model for semantic segmentation that replaces fully connected layers with convolutional layers for end-to-end pixel-wise predictions.
 
+## Acknowledgments
+
+This project would not have been possible without the contributions of the following developers:
+
+- (https://github.com/shadanyousef19) - U-Net model implementation
+- (https://github.com/jourialgh) - FCN model implementation
+
 
 ## Contributions 
 Contributions to FetalVision are welcome! If you have ideas for improvements, feature requests, or find any issues, please open an issue or submit a pull request.
