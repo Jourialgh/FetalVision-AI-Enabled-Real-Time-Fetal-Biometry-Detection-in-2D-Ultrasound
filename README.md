@@ -39,7 +39,7 @@ FCN (Fully Convolutional Network): A deep learning model for semantic segmentati
 
 This project would not have been possible without the contributions of the following developers:
 
-- (https://github.com/shadanyousef19) - U-Net model implementation
+- (https://github.com/shadanyousef) - U-Net model implementation
 - (https://github.com/jourialgh) - FCN model implementation
 
 
