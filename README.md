@@ -1,4 +1,4 @@
-# FetalVision: AI-Enabled Real-Time Fetal Biometry and Abnormality Detection in 2D Ultrasound
+# FetalVision: AI-Enabled Real-Time Fetal Biometry Detection in 2D Ultrasound
 
 FetalVision is a project aimed at leveraging deep learning models for real-time fetal biometry estimation and abnormality detection using 2D ultrasound images. This repository contains implementations of two deep learning models: U-Net and FCN, trained on a custom dataset for this specific task.
 
@@ -31,16 +31,4 @@ Link to the dataset: [Fetal Head Circumference Dataset](https://www.kaggle.com/d
 - scikit-learn
 
   
-## Model Architecture 
-U-Net: A convolutional neural network architecture for semantic segmentation, characterized by a contracting path followed by an expansive path.
-FCN (Fully Convolutional Network): A deep learning model for semantic segmentation that replaces fully connected layers with convolutional layers for end-to-end pixel-wise predictions.
-
-## Acknowledgments
-
-- (https://github.com/shadanyousef) - U-Net model implementation
-- (https://github.com/jourialgh) - FCN model implementation
-
-
-## Contributions 
-Contributions to FetalVision are welcome! If you have ideas for improvements, feature requests, or find any issues, please open an issue or submit a pull request.
 
