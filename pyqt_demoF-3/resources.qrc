@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/whiteLogo.png</file>
+        <file>assets/bg1.jpg</file>
+        <file>assets/bg2.png</file>
+        <file>assets/bg3.jpeg</file>
+        <file>assets/logo.png</file>
+        <file>assets/us.jpg</file>
+        <file>assets/blur_logo.png</file>
+        <file>assets/Blank diagram.png</file>
+        <file>assets/logo2.png</file>
+        <file>assets/blur_logo2.png</file>
+        <file>assets/blurry_log02.png</file>
+    </qresource>
+</RCC>
