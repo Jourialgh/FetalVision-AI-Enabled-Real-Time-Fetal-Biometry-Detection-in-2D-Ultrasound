@@ -76,12 +76,12 @@ Next, you'll need to set up a Python virtual environment to install all the nece
 ### 2.1. Create a Virtual Environment
 
 Run the following command to create a virtual environment in your project directory:
-```bash
-python3 -m venv venv
+ 
+ python3 -m venv venv
 
 2.3. Install Dependencies
 pip install -r rose_requirements.txt
 
 ### 3 Run the Model
-```bash
+ 
 python3 main.py
