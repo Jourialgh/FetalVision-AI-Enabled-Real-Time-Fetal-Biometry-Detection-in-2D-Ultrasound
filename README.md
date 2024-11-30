@@ -80,6 +80,7 @@ Run the following command to create a virtual environment in your project direct
  python3 -m venv venv
 
 2.3. Install Dependencies
+
 pip install -r rose_requirements.txt
 
 ## 3. Run the Model
