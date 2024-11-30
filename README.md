@@ -55,5 +55,31 @@ Link to the dataset on Roboflow : https://universe.roboflow.com/eemur/eemur/data
 - scikit-learn
 - PyQt5
 
-  
+# U-Net Model Setup and Execution Guide
+
+This repository contains the U-Net model code. Follow the steps below to set up your environment and run the model.
+
+## 1. Download the Model Weights
+
+First, you need to download the pre-trained model weights. You can get them from the provided link below:
+
+- [Download U-Net Weights](<https://drive.google.com/file/d/1mAGhIYvXVUE59TMctE9AR0_AisIZ3M5l/view?usp=share_link>)
+
+After downloading the weights (`unet_weights.h5`), **move** or **copy** the weights file into the `model` folder in the repository.
+
+
+## 2. Set Up the Virtual Environment
+
+Next, you'll need to set up a Python virtual environment to install all the necessary dependencies.
+
+
+### 2.1. Create a Virtual Environment
+
+Run the following command to create a virtual environment in your project directory:
+```bash
+python3 -m venv venv
+
+
+ 
+
 
