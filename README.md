@@ -19,9 +19,9 @@ Fetal Head Circumference Dataset (Kaggle)
 The dataset we utilized for fetal head circumference, obtained from Kaggle[16], was divided into
 three main sets: training, testing, and validation. Each set consisted of three directories: images,
 annotations, and labels. The breakdown is as follows:
-● Training set: 699 files
-● Testing set: 101 files
-● Validation set: 199 files
+  - Training set: 699 files
+  - Testing set: 101 files
+  - Validation set: 199 files
 Overall, we worked with 999 ultrasound images in our project. Additionally, we incorporated the
 YOLO obb.yaml file for configuring and training specific models to improve accuracy in detection
 and classification tasks.
@@ -31,9 +31,9 @@ Femur Length Dataset (Roboflow)
 The dataset we utilized, obtained from Roboflow[17], was divided into three main sets: training,
 validation, and testing. The breakdown is as follows:
 
-● Training set: 2,087 images
-● Validation set: 201 images
-● Testing set: 101 images
+ - Training set: 2,087 images
+ - Validation set: 201 images
+ - Testing set: 101 images
 
 Each set was organized into directories, with images separated from any annotations or labels to
 facilitate model training and evaluation.
