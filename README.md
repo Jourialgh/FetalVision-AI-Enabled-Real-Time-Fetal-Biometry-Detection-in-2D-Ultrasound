@@ -30,9 +30,11 @@ Link to the dataset on Kaggle : https://www.kaggle.com/datasets/theunkovvn/fetal
 Femur Length Dataset (Roboflow)
 The dataset we utilized, obtained from Roboflow[17], was divided into three main sets: training,
 validation, and testing. The breakdown is as follows:
+
 ● Training set: 2,087 images
 ● Validation set: 201 images
 ● Testing set: 101 images
+
 Each set was organized into directories, with images separated from any annotations or labels to
 facilitate model training and evaluation.
 In total, we worked with 2,389 images for our project. Additionally, we incorporated the YOLO
