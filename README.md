@@ -81,7 +81,7 @@ Run the following command to create a virtual environment in your project direct
 
 2.3. Install Dependencies
 
-pip install -r rose_requirements.txt
+pip install -r requirements.txt
 
 ## 3. Run the Model
  
