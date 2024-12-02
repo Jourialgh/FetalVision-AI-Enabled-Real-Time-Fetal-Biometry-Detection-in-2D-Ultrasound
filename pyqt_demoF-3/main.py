@@ -18,6 +18,8 @@ from PyQt5.QtGui import QFont, QPixmap, QImage, QPainter
 from PyQt5.QtCore import QPropertyAnimation, Qt, QIODevice, QTextStream, QFile, QTextStream
 from PyQt5.QtWidgets import QScrollArea
 from PyQt5.QtPrintSupport import QPrinter, QPrintDialog
+from PyQt5.QtGui import QPixmap, QImage
+from PyQt5.QtCore import QByteArray
 from io import BytesIO
 
 
@@ -703,8 +705,7 @@ class PatientWindow(QMainWindow):
 
     def displayImageFromBlob(self, image_data, label):
         """Converts image BLOB to QPixmap and displays it in the given label."""
-        from PyQt5.QtGui import QPixmap, QImage
-        from PyQt5.QtCore import QByteArray
+        
 
         # Convert BLOB to QImage
         image = QImage.fromData(QByteArray(image_data))
